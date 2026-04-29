@@ -22,6 +22,8 @@ namespace Lab6
             GameForm oknoGry = new GameForm();
             oknoGry.Show();
             this.Hide();
+          
+
         }
 
         private void btnUstawienia_Click(object sender, EventArgs e)
